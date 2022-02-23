@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'capistrano', '~> 3.4.0'
+gem 'capistrano-composer'
+gem 'bcrypt', '~> 3.1.7'
+gem 'ed25519'
+gem 'bcrypt_pbkdf'
